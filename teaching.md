@@ -1,5 +1,5 @@
 
-# Teaching and mentoring
+## Teaching and mentoring
 
 
 I have taught seven invited full lectures which I developed fromscratch in the [UConn Animal Science](http://www.animalscience.uconn.edu/) undergraduate classes. UConnstudents are academically motivated and attentive. They enter the classroom and laboratory with diverse backgrounds and varied experiences. I do my best to ensure that students of all levels benefit and I consistently receive excellent feedback and written evaluations from students and classroom observers from [Center for Excellence in Teaching and Learning](https://cetl.uconn.edu/). Further, I have improved my pedagogy by completing the [Certificate in College Teaching Program](https://gcci.uconn.edu/). Through one year and nine credits of both [theory and practical classes](https://gcci.uconn.edu/additional-courses/), and with five pedagogy [books](books.md) for our reading circle, I built up my own [teaching portfolio](teachings/portfolio.pdf) in college-based multicultural education. Moreover, I took one semester of the Teaching Experience in Animal Science class offered by UConn Animal Science department. In this class, I observed the classroom for one semester, designed a lecture with lab, taught the class, evaluated/self-reflected on the class, and developed a[teaching philosophy](teachings/philosophy.pdf).
