@@ -48,4 +48,36 @@ Click here for [PubMed Bibliography][pubMed]
 [[Abstract]](http://gb.oversea.cnki.net/KCMS/detail/detail.aspx?filename=SCDX201404036&dbcode=CJFD&dbname=CJFD2014) 
 [[Full text]](publication/Genotyping_TB_with_MIRU-VNTR_Chinese.pdf)  
 
-*	**Undergraduate Honor Thesis**: **Duan J**. Effect of eugenol and rutin hydrate on virulence factors of Vibrio parahaemolyticus. 
+*	**Undergraduate Honor Thesis**: **Duan J**. Effect of eugenol and rutin hydrate on virulence factors of Vibrio parahaemolyticus. _**Sichuan University**_  
+[[Full text]](publication/undergrad_thesis.pdf) 
+
+# Conference Abstract & Presentations
+1. **Duan JE**, Rieder LE, and Larschan EN. The early transcription factors CLAMP and Zelda cooperate to regulate the maternal-to-zygotic transition in Drosophila early embryos
+  * Poster presentation at (The Allied Genetics Conference) TAGC, 2020
+
+2.	**Duan JE**, Rieder LE, and Larschan EN. _Cooperation among transcription factors CLAMP, GAF and Zelda during the maternal-to-zygotic transition in the Drosophila early embryo_
+ * Poster presentation at Mechanisms of Eukaryotic Transcription, CSHL, 2019
+
+3.	**Duan JE**, Jiang Z, Alqahtani F, Mandoiu I, Dong H, Zheng X, Marjani S, Chen J and Tian XC. (2019) _Whole genome bisulfite sequencing of bovine in vivo gametes and preimplantation embryos_.
+ * Poster presentation at Epigenetics & Chromatin Meeting, CSHL, 2018
+ * Oral presentation at the 44nd Annual meeting of IETS, 2019
+4.	Jiang Z, **Duan J**, Wang T, Zhang M, Tian X, and Seli E. (2018) _Evaluating mitochondrial stress response gene CLPP regulated DNA methylome dynamics in female reproductive aging_. ASRM.
+
+5.	L.N. Engels, M.C. Wynn, B.I. Smith, M.L. Hoffman, A.K. Jones, S.M. Pillai, S.A. Reed, S.A. Zinn, **J.E. Duan**, X.C. Tian, and K.E. Govoni (2018). _The Effects of Poor Maternal Nutrition on Fetal Brain Development_. ASAS.
+
+6.	**Duan JE**, Zhang M, Flock K, Seesi SA, Mandoiu I, Jones AK, Pillai SM, Hoffman ML, Jiang H, Reed SA, Govoni KE, Zinn SA, Jiang Z and Tian XC (2018). _Effects of Maternal Nutrition on Genomic Imprinting in Fetal Sheep_. PAG.  
+ * Oral presentation at Graduate Research Forum, College of Agriculture and Natural Resources, UCONN. 03. 2018 
+ * Oral and poster presentation at Plant & Animal Genome XXVI conference. San Diego, CA. 01. 2018 
+ * Poster presentation at Institute for Systems Genomics 5-year Celebration, UCONN, Storrs, CT. 11. 2017
+
+7.	**Duan J**, Flock K, Zhang M, Hoffman M, Pillai SM, Jones AK, Jiang H, Zinn SA, Reed SA, Govoni KE, Jue NK, O’Neill R, Jiang Z, Tian XC (2018) _Dosage compensation of the X chromosome in ovine embryos, late gestation, and adult somatic tissues_. Reproduction, Fertility and Development 30(1) 194-194.
+
+8.	**Duan JE**, Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Dong H, Zheng X, Chen J, and Tian XC. (2017) _Incomplete compensatory up-regulation of X-linked gene in bovine germline cells, early developmental embryos and somatic cells_. Reproduction, Fertility and Development 29(1) 171-171.
+ * Poster presentation at Graduate Research Forum, College of Agriculture and Natural Resources, UCONN 3/2017
+ * Poster presentation at the 43rd IETS, Austin TX. Jan 2017 (**Best Poster Runner-up Award**)
+
+9.	Zhu L, Jiang Z, **Duan JE**, Dong H, Zheng X, Donovan D, Talbot N, Chen J, and Tian XC. (2017) _Abundance of mRNA for histone variants, histone, and DNA modification enzymes in bovine in vivo oocytes and pre-implantation embryos_. Reproduction, Fertility and Development 29(1) 172-172.
+
+10.	**Duan JE**, Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Dong H, Zheng X, Chen J, and Tian, XC. (2016) _Dosage compensation and X-linked gene expression in bovine in vivo and in vitro embryos_. Reproduction, Fertility and Development 28(2) 202-202.  
+ * Oral presentation at Graduate Research Forum, College of Agriculture and Natural Resources, UCONN. 3/2016 (**Best oral presentation**)
+ * Poster presentation at the 42nd IETS, Louisville KY. Jan 2016
