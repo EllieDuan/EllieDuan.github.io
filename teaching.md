@@ -8,8 +8,8 @@ I have taught seven invited full lectures which I developed fromscratch in the 
 # Teaching
 1.	Oct. 31th, 2019: Guest lecture **Method in Genome engineering /Genome-editing: ZFN, TALEN and CRISPR/Cas9** in Animal Embryology and Biotechnology (ANSC3323/5621), ANSC, UCONN. [[PDF]](teachings/genome_editing_2019.pdf)
 2.	Dec.4th, 2018: Guest lecture **Epigenetics--Genomic Imprinting and X Chromosome Inactivation** in Animal Embryology and Biotechnology (ANSC3323/5621), ANSC, UCONN. [[PDF]](teachings/genomic_imprinting_XCI_2018.pdf)
-3.	Apr. 18th, 2018: Guest lecture **Animal Genetic Testing and Genomic Selection** in Animal Breeding and Genetics (SAAS121), ANSC, UCONN. [[PDF]](teachings/animal_breeding_genetics_selection_2018)
-4.	Nov. 10th, 2017: **Ensembl genome browser tutorial** in Principles of Animal Genetics (ANSC3121), ANSC, UCONN. [[PDF]](teachings/USCS_genome_browser_tutorial_2017)
+3.	Apr. 18th, 2018: Guest lecture **Animal Genetic Testing and Genomic Selection** in Animal Breeding and Genetics (SAAS121), ANSC, UCONN. [[PDF]](teachings/animal_breeding_genetics_selection_2018.pptx)
+4.	Nov. 10th, 2017: **Ensembl genome browser tutorial** in Principles of Animal Genetics (ANSC3121), ANSC, UCONN. [[PDF]](teachings/USCS_genome_browser_tutorial_2017.pdf)
 5.	Sep. 21st, 2017 and Sep.18th, 2018: Guest lecture **Preimplantation Genetic Diagnosis I & II** in Embryo Biotechnology (ANSC3323/5621), ANSC, UCONN. [[PDF I]](teachings/PGD_I_2017.pdf) [[PDF II]](teachings/PGD_II_2017.pdf)
 6.	Nov. 4th, 2016 Guest lecture **X chromosome inactivation** in Principles of Animal Genetics (ANSC3121), ANSC, UCONN. [[PDF]](teachings/XCI_2016.pdf)
 7.	Fall 2016: Graduate Teaching Assistant in Reproductive Physiology (ANSC3122), ANSC, UCONN.
