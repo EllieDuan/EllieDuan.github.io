@@ -1,7 +1,6 @@
----
-layout: page
-title: Teaching and mentoring
----
+
+# Teaching and mentoring
+
 
 I have taught seven invited full lectures which I developed fromscratch in the [UConn Animal Science](http://www.animalscience.uconn.edu/) undergraduate classes. UConnstudents are academically motivated and attentive. They enter the classroom and laboratory with diverse backgrounds and varied experiences. I do my best to ensure that students of all levels benefit and I consistently receive excellent feedback and written evaluations from students and classroom observers from [Center for Excellence in Teaching and Learning](https://cetl.uconn.edu/). Further, I have improved my pedagogy by completing the [Certificate in College Teaching Program](https://gcci.uconn.edu/). Through one year and nine credits of both [theory and practical classes](https://gcci.uconn.edu/additional-courses/), and with five pedagogy [books](books.md) for our reading circle, I built up my own [teaching portfolio](teachings/portfolio.pdf) in college-based multicultural education. Moreover, I took one semester of the Teaching Experience in Animal Science class offered by UConn Animal Science department. In this class, I observed the classroom for one semester, designed a lecture with lab, taught the class, evaluated/self-reflected on the class, and developed a[teaching philosophy](teachings/philosophy.pdf).
 
@@ -17,5 +16,5 @@ I have taught seven invited full lectures which I developed fromscratch in the 
 	
 # Mentoring 
 
-1.	2019 - present: Mentoring two [Brown University](https://www.brown.edu/) undergrad students Mary McKenney and Annie Huang doing undergraduate independent research in [Larschan Lab] (https://vivo.brown.edu/display/elarscha). Lab training including: fly cross set up, fly dissection, molecular biology experiments, tissue and polytene immunostaining and electrophoretic mobility shift assay.
+1.	2019 - present: Mentoring two [Brown University](https://www.brown.edu/) undergrad students Mary McKenney and Annie Huang doing undergraduate independent research in [Larschan Lab](https://vivo.brown.edu/display/elarscha). Lab training including: fly cross set up, fly dissection, molecular biology experiments, tissue and polytene immunostaining and electrophoretic mobility shift assay.
 2. 2014 - 2019: Mentored several [UConn](https://uconn.edu/) undergrad and fellow graduate students on bioinformatics analysis, including: RNA-seq data analysis, and use of [Ensembl genome browser](https://useast.ensembl.org/index.html), [UCSC genome browser](https://genome.ucsc.edu/), [NCBI database search](https://www.ncbi.nlm.nih.gov/search/), [DAVID](https://david.ncifcrf.gov/) and [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi). 

@@ -23,7 +23,7 @@ navbar-links:
   HOME: "aboutme"
   PUBLICATIONS: "publication"
   TEACHING: "teaching"
-  AWARDS\ \& \Service: "awards_service"
+  AWARDS & Service: "awards_service"
   CONTACT: "contact"
 
 
