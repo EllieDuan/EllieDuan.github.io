@@ -74,3 +74,9 @@ Click here for [PubMed Bibliography][pubMed]
 10.	**Duan JE**, Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Dong H, Zheng X, Chen J, and Tian, XC. (2016) _Dosage compensation and X-linked gene expression in bovine in vivo and in vitro embryos_. Reproduction, Fertility and Development 28(2) 202-202.  
  * Oral presentation at Graduate Research Forum, College of Agriculture and Natural Resources, UCONN. 3/2016 (**Best oral presentation**)
  * Poster presentation at the 42nd IETS, Louisville KY. Jan 2016 [[poster]](posters/IETS_2016.pdf)
+
+# GEO Data Submissions
+1.	[GSE121758](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121758): **Duan JE**, Jiang Z, Alqahtani F, Mandoiu I, Dong H, Zheng X, Marjani S, Chen J and Tian XC. Whole genome bisulfite sequencing of bovine in vivo gametes and preimplantation embryos. 2019  
+2.	[GSE111306](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111306): **Duan JE**, Zhang M, Flock K, Seesi SA, Mandoiu I, Jones AK, Pillai SM, Hoffman ML, Jiang H, Reed SA, Govoni KE, Zinn SA, Jiang Z, Tian XC. Effects of Maternal Energy Intake on Genomic Imprinting in Fetal Sheep. 2018  
+3.	[GSE110400](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110400): Jiang Z, Lin J, Dong H, Zheng X, Marjani SL, **Duan J**, Ouyang Z, Chen J, Tian XC. DNA methylomes of the bovine gametes and in vivo preimplantation embryos. 2018  
+4.	[GSE97261](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97261): Wang L, Jiang Z, Huang D, **Duan J**, Huang C, Sullivan S, Vali K, Yin Y, Zhang M, Wegrzyn J, Tian X, Tang Y. Jak/Stat3 regulated global gene expression dynamics during late-stage reprogramming process. 2017

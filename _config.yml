@@ -22,8 +22,8 @@ description: a place to keep track my life
 navbar-links:
   HOME: "aboutme"
   PUBLICATIONS: "publication"
-  PROJECTS: "project"
   TEACHING: "teaching"
+  AWARDS\ \& \Service: "awards_service"
   CONTACT: "contact"
 
 
