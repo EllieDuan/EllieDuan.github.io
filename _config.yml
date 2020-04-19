@@ -20,7 +20,7 @@ description: a place to keep track my life
 
 # List of links in the navigation bar
 navbar-links:
-  HOME: "/"
+  HOME: "index.html"
   PUBLICATIONS: "publication"
   TEACHING: "teaching"
   AWARDS & Service: "awards_service"
