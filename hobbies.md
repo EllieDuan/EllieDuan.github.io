@@ -2,7 +2,28 @@
 layout: default
 ---
 
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+
+<body>
 <div class="row">
     <h2 style="font-weight: bold">Adobe illustrator design</h2>
   <div class="col-lg-4">
@@ -15,7 +36,7 @@ layout: default
     <img src="/img/adobe_illustrator/homework3_ellie.png" alt="Llama" height="300px">
   </div>
 </div> 
-
+</body>
 
 
 <div class="row">
