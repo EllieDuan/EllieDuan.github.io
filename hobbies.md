@@ -80,12 +80,11 @@ img {
   color: white;
 }
 
-.slides_container div { 
-  margin: 0px auto; // center
-  width:auto; 
-  height:500px; 
-  text-align:center; 
-} 
+.slides_container div, .slides_container img {
+    width:1100px;
+    height:500px;
+    text-align:center;
+    margin:0 auto; }
 
 
 .row:after {
