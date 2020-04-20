@@ -16,14 +16,15 @@ body {
 }
 
 img {
-  vertical-align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
 
 .container {
-  position: absolute ;
-  margin : 0 auto;
+  position: relative;
 }
 
 /* Hide the images by default */
