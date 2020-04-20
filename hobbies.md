@@ -184,10 +184,10 @@ img {
       <img class="demo cursor" src="/img/adobe_illustrator/Asset_3.png" style="width:100%" onclick="currentSlide(7)" alt="Happy Halloween!">
     </div>
      <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(8)" alt="Spring birds">
+      <img class="demo cursor" src="/img/adobe_illustrator/Asset_4.png" style="width:100%" onclick="currentSlide(8)" alt="Spring birds">
     </div>
      <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(9)" alt="Texas Eyeball">
+      <img class="demo cursor" src="/img/adobe_illustrator/Final_project_ellie.png" style="width:100%" onclick="currentSlide(9)" alt="Texas Eyeball">
     </div>
   </div>
 </div>
