@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+<!DOCTYPE html>
+<html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -79,6 +80,14 @@ img {
   color: white;
 }
 
+.slides_container div { 
+  margin: 0px auto; // center
+  width:auto; 
+  height:500px; 
+  text-align:center; 
+} 
+
+
 .row:after {
   content: "";
   display: table;
@@ -103,53 +112,55 @@ img {
 </style>
 
 <body>
+<h2 style="text-align:center">Adobe Illustrator Design</h2>
+
 <!-- Container for the image gallery -->
 <div class="container">
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 9</div>
-    <img src="/img/adobe_illustrator/Ellie_mooncake.png" style="width:500px, height:auto">
+    <div class="numbertext slides_container">1 / 9</div>
+    <img src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png"  style="width:auto, height:500px">
+  </div>
+  
+  <div class="mySlides">
+    <div class="numbertext slides_container">2 / 9</div>
+    <img src="/img/adobe_illustrator/Ellie_mooncake.png" style="width:auto, height:500px">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 9</div>
-    <img src="/img/adobe_illustrator/hungarian_door_Ellie.png" style="width:500px, height:auto">
+    <div class="numbertext slides_container">3 / 9</div>
+    <img src="/img/adobe_illustrator/hungarian_door_Ellie.png" style="width:auto, height:500px">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 9</div>
-    <img src="/img/adobe_illustrator/homework3_ellie.png" style="width:500px, height:auto">
+    <div class="numbertext slides_container">4 / 9</div>
+    <img src="/img/adobe_illustrator/homework3_ellie.png" style="width:auto, height:500px">
   </div>
  
   <div class="mySlides">
-    <div class="numbertext">4 / 9</div>
-    <img src="/img/adobe_illustrator/Roger_william_zoo_Ellie.png" style="width:500px, height:auto">
+    <div class="numbertext slides_container">5 / 9</div>
+    <img src="/img/adobe_illustrator/Roger_william_zoo_Ellie.png" style="width:auto, height:500px">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 9</div>
-    <img src="/img/adobe_illustrator/Ellie_menu.png" style="width:500px, height:auto">
+    <div class="numbertext slides_container">6 / 9</div>
+    <img src="/img/adobe_illustrator/Ellie_menu.png" style="width:auto, height:500px">
   </div>
     
-  <div class="mySlides">
-    <div class="numbertext">6 / 9</div>
-    <img src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png"  style="width:500px, height:auto">
-  </div>
-    
-     <div class="mySlides">
-    <div class="numbertext">7 / 9</div>
-    <img src="/img/adobe_illustrator/Asset_3.png" style="width:500px, height:auto">
+   <div class="mySlides">
+    <div class="numbertext slides_container">7 / 9</div>
+    <img src="/img/adobe_illustrator/Asset_3.png" style="width:auto, height:500px">
   </div>
   
    <div class="mySlides">
-    <div class="numbertext">8 / 9</div>
-    <img src="/img/adobe_illustrator/Asset_4.png" style="width:500px, height:auto">
+    <div class="numbertext slides_container">8 / 9</div>
+    <img src="/img/adobe_illustrator/Asset_4.png" style="width:auto, height:500px">
   </div>
   
    <div class="mySlides">
-    <div class="numbertext">9 / 9</div>
-    <img src="/img/adobe_illustrator/Final_project_ellie.png" style="width:500px, height:auto">
+    <div class="numbertext slides_container">9 / 9</div>
+    <img src="/img/adobe_illustrator/Final_project_ellie.png" style="width:auto, height:500px">
   </div>
   
   <!-- Next and previous buttons -->
@@ -164,31 +175,31 @@ img {
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/Ellie_mooncake.png" style="width:100%" onclick="currentSlide(1)" alt="Moon cake">
+    <img class="demo cursor" src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png" style="width:auto, height:500px" onclick="currentSlide(6)" alt="Happy Holidays">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/hungarian_door_Ellie.png" style="width:100%" onclick="currentSlide(2)" alt="Hungarian door">
+      <img class="demo cursor" src="/img/adobe_illustrator/Ellie_mooncake.png" style="width:auto, height:500px" onclick="currentSlide(1)" alt="Moon cake">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/homework3_ellie.png" style="width:100%" onclick="currentSlide(3)" alt="Llama in the farm">
+      <img class="demo cursor" src="/img/adobe_illustrator/hungarian_door_Ellie.png" style="width:auto, height:500px" onclick="currentSlide(2)" alt="Hungarian door">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/Roger_william_zoo_Ellie.png" style="width:100%" onclick="currentSlide(4)" alt="Roger william zoo map">
+      <img class="demo cursor" src="/img/adobe_illustrator/homework3_ellie.png" style="width:auto, height:500px" onclick="currentSlide(3)" alt="Llama in the farm">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/Ellie_menu.png" style="width:100%" onclick="currentSlide(5)" alt="Pizza restaurant takeout menu">
+      <img class="demo cursor" src="/img/adobe_illustrator/Roger_william_zoo_Ellie.png" style="width:auto, height:500px" onclick="currentSlide(4)" alt="Roger william zoo map">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/img/adobe_illustrator/Ellie_menu.png" style="width:auto, height:500px" onclick="currentSlide(5)" alt="Pizza restaurant takeout menu">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png" style="width:100%" onclick="currentSlide(6)" alt="Happy Holidays">
+    <img class="demo cursor" src="/img/adobe_illustrator/Asset_3.png" style="width:auto, height:500px" onclick="currentSlide(7)" alt="Happy Halloween!">
     </div>
      <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/Asset_3.png" style="width:100%" onclick="currentSlide(7)" alt="Happy Halloween!">
+      <img class="demo cursor" src="/img/adobe_illustrator/Asset_4.png" style="width:auto, height:500px" onclick="currentSlide(8)" alt="Spring birds">
     </div>
-     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/Asset_4.png" style="width:100%" onclick="currentSlide(8)" alt="Spring birds">
-    </div>
-     <div class="column">
-      <img class="demo cursor" src="/img/adobe_illustrator/Final_project_ellie.png" style="width:100%" onclick="currentSlide(9)" alt="Texas Eyeball">
+    <div class="column">
+      <img class="demo cursor" src="/img/adobe_illustrator/Final_project_ellie.png" style="width:auto, height:500px" onclick="currentSlide(9)" alt="Texas Eyeball">
     </div>
   </div>
 </div>
@@ -226,3 +237,4 @@ function showSlides(n) {
 </script>
 
 </body>
+</html>
