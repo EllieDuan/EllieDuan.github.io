@@ -42,7 +42,7 @@ img {
   width: auto;
   padding: 16px;
   margin-top: -50px;
-  color: white;
+  color: black;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
@@ -85,10 +85,10 @@ img {
   clear: both;
 }
 
-/* Six columns side by side */
+/* 9 columns side by side */
 .column {
   float: left;
-  width: 16.66%;
+  width: 11.11%;
 }
 
 /* Add a transparency effect for thumnbail images */
@@ -102,53 +102,54 @@ img {
 }
 </style>
 
+<body>
 <!-- Container for the image gallery -->
 <div class="container">
 
   <!-- Full-width images with number text -->
   <div class="mySlides">
     <div class="numbertext">1 / 9</div>
-    <img src="/img/adobe_illustrator/Ellie_mooncake.png" style="width:100%">
+    <img src="/img/adobe_illustrator/Ellie_mooncake.png" style="width:500px, height:auto">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 9</div>
-    <img src="/img/adobe_illustrator/hungarian_door_Ellie.png" style="width:100%">
+    <img src="/img/adobe_illustrator/hungarian_door_Ellie.png" style="width:500px, height:auto">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 9</div>
-    <img src="/img/adobe_illustrator/homework3_ellie.png" style="width:100%">
+    <img src="/img/adobe_illustrator/homework3_ellie.png" style="width:500px, height:auto">
   </div>
  
   <div class="mySlides">
     <div class="numbertext">4 / 9</div>
-    <img src="/img/adobe_illustrator/Roger_william_zoo_Ellie.png" style="width:100%">
+    <img src="/img/adobe_illustrator/Roger_william_zoo_Ellie.png" style="width:500px, height:auto">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 9</div>
-    <img src="/img/adobe_illustrator/Ellie_menu.png" style="width:100%">
+    <img src="/img/adobe_illustrator/Ellie_menu.png" style="width:500px, height:auto">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 9</div>
-    <img src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png"  style="width:100%">
+    <img src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png"  style="width:500px, height:auto">
   </div>
     
      <div class="mySlides">
     <div class="numbertext">7 / 9</div>
-    <img src="/img/adobe_illustrator/Asset_3.png" style="width:100%">
+    <img src="/img/adobe_illustrator/Asset_3.png" style="width:500px, height:auto">
   </div>
   
    <div class="mySlides">
     <div class="numbertext">8 / 9</div>
-    <img src="/img/adobe_illustrator/Asset_4.png" style="width:100%">
+    <img src="/img/adobe_illustrator/Asset_4.png" style="width:500px, height:auto">
   </div>
   
    <div class="mySlides">
     <div class="numbertext">9 / 9</div>
-    <img src="/img/adobe_illustrator/Final_project_ellie.png" style="width:100%">
+    <img src="/img/adobe_illustrator/Final_project_ellie.png" style="width:500px, height:auto">
   </div>
   
   <!-- Next and previous buttons -->
@@ -223,6 +224,5 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
-    
-</body>
 
+</body>
