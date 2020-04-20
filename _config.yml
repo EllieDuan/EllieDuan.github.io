@@ -4,7 +4,7 @@
 title: Ellie Duan
 
 # Short description of your site
-description: a place to keep track my life
+description: If you don't know about me, now you know :-D
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -77,7 +77,7 @@ social-network-links:
   #rss: 
   email: "jingyue.duan@brown.edu"
 # facebook:
-  github:
+  github: "EllieDuan"
   twitter: "ellieduan"
 #  reddit: yourname
   linkedin: "jingyue-ellie-duan-4a43bb99/"
