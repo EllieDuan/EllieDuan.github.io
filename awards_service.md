@@ -28,23 +28,23 @@ title: Awards & Services
 
 # Reviewer for the following scientific journals:
 *	2020 Journal: BMC Biology
-*	2019 Journal: 
- * Nature Communication  
- * EMBO Reports 
- * PLOS One
- * Molecular Biology and Evolution 
- * Theriogenology  
- * Cellular reprogramming  
- * Journal of Reproduction  
- * BMC Genomics  
- * Scientific Data  
- * PLOS One  
- * 	_Cells_
+*	2019 Journals: 
+	* Nature Communication  
+	* EMBO Reports 
+	* PLOS One
+	* Molecular Biology and Evolution 
+	* Theriogenology  
+	* Cellular reprogramming  
+	* Journal of Reproduction  
+	* BMC Genomics  
+	* Scientific Data   
+	* PLOS One  
+	* 	_Cells_
 *	2018 Journal: Reproduction, Fertility and Development
-*	2017 Journal: 
- * BCM genomics  
- * Biology of Reproduction
- * PLOS ONE
+*	2017 Journals: 
+	* BCM genomics  
+	* Biology of Reproduction
+	* PLOS ONE
 
 # Professional Memberships
 1.	2019 - present Genetics Society of America (GSA)
