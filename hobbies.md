@@ -81,8 +81,8 @@ img {
 /* Container for image text */
 .caption-container {
   text-align: center;
-  background-color: #222;
-  padding: 2px 16px;
+  background-color: #dcd0ff;
+  padding: 1px 8px;
   color: white;
 }
 
@@ -173,7 +173,7 @@ img {
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-    <img class="demo cursor" src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png" style="width:auto, height:600px"  onclick="currentSlide(1)" alt="Happy Holidays">
+    <img class="demo cursor" src="/img/adobe_illustrator/class8_homework_ellie_happyholoday.png" style="width:auto, height:600px"  onclick="currentSlide(1)" alt="Greetings from Tommy and Fluffy">
     </div>
     <div class="column">
       <img class="demo cursor" src="/img/adobe_illustrator/Ellie_mooncake.png" style="width:auto, height:600px" onclick="currentSlide(2)" alt="Moon Cake">
