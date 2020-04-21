@@ -27,7 +27,7 @@ img {
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 40%;
+  top: 300px;
   width: auto;
   padding: 16px;
   margin-top: -50px;
@@ -42,6 +42,7 @@ img {
 /* Position the "next button" to the right */
 .next {
   right: 0;
+  top: 300px;
   border-radius: 3px 0 0 3px;
 }
 
@@ -101,6 +102,10 @@ img {
   to {opacity: 1}
 }
 
+/* On smaller screens, decrease text size */
+@media only screen and (max-width:100%; height:auto;) {
+  .prev, .next,.text {font-size: 11px}
+}
 
 </style>
 </head>
