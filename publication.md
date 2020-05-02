@@ -18,7 +18,7 @@ Click here for [PubMed Bibliography][pubMed]
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31191619/) [[Full text]](publication/Frontier_in_genetics_WGBS_bovineEmbryos2019.pdf)
 *	**Duan JE**, Flock K, Jue N, Zhang M, Jones A, Seesi S, Mandoiu I, Pillai S, Hoffman M, O’Neill R, Zinn S, Govoni K, Reed S, Jiang H, Jiang Z and Tian XC. Dosage Compensation and Gene Expression of the X Chromosome in Sheep. _**G3: Genes Genomes Genetics**_. 2019 Jan 9;9(1):305-314. doi: 10.1534/g3.118.200815.  
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30482800/) [[Full text]](publication/G3_X_dosageCompensation_Sheep.pdf)
-*	**Duan JE**, Shi W,Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Talbot N, Dong H, Zheng X, Chen J, and Tian XC. Dosage compensatory of X chromosome in bovine germline cells, early developmental embryos and somatic cells. _**Genome Biol Evol**_. 2019 Jan 1;11(1):242-252. doi: 10.1093/gbe/evy270.  
+*	**Duan JE**, Shi W, Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Talbot N, Dong H, Zheng X, Chen J, and Tian XC. Dosage compensatory of X chromosome in bovine germline cells, early developmental embryos and somatic cells. _**Genome Biol Evol**_. 2019 Jan 1;11(1):242-252. doi: 10.1093/gbe/evy270.  
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30566637/) [[Full text]](publication/GBE_X_dosageCompensation_BovineEmbryo.pdf) 
 *	**Duan JE**, Zhu L, Dong H, Zheng X, Chen J, Jiang Z, and X. Tian. Abundance of mRNA for histone variants, histone, and DNA modification enzymes in bovine in vivo oocytes and pre-implantation embryos. _**Sci Rep**_ 9, 1217 2019. doi: 10.1038/s41598-018-38083-4  
 [[Abstract]](https://www.nature.com/articles/s41598-018-38083-4) [[Full text]](publication/ScientificReports_Bovine_HistoneGenes_rna-seq.pdf)
