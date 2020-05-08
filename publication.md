@@ -69,7 +69,7 @@ Click here for [PubMed Bibliography][pubMed]
  * Poster at the 44th IETS, Bangkok. Jan 2018 [[poster]](posters/IETS_2018.pdf)
 8.	**Duan JE**, Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Dong H, Zheng X, Chen J, and Tian XC. (2017) _Incomplete compensatory up-regulation of X-linked gene in bovine germline cells, early developmental embryos and somatic cells_. Reproduction, Fertility and Development 29(1) 171-171.
  * Poster presentation at Graduate Research Forum, College of Agriculture and Natural Resources, UCONN 3/2017
- * Poster presentation at the 43rd IETS, Austin TX. Jan 2017 (**Best Poster Runner-up Award**) [[poster]](posters/IETS_2017.pdf)  
+ * Poster presentation at the 43rd IETS, Austin TX. Jan 2017 [[**Best Poster Runner-up Award**]](http://animalscience.uconn.edu/Graduate/ANSCGradStudentAccolades.php) [[poster]](posters/IETS_2017.pdf)  
 9.	Zhu L, Jiang Z, **Duan JE**, Dong H, Zheng X, Donovan D, Talbot N, Chen J, and Tian XC. (2017) _Abundance of mRNA for histone variants, histone, and DNA modification enzymes in bovine in vivo oocytes and pre-implantation embryos_. Reproduction, Fertility and Development 29(1) 172-172.  
 10.	**Duan JE**, Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Dong H, Zheng X, Chen J, and Tian, XC. (2016) _Dosage compensation and X-linked gene expression in bovine in vivo and in vitro embryos_. Reproduction, Fertility and Development 28(2) 202-202.  
  * Oral presentation at Graduate Research Forum, College of Agriculture and Natural Resources, UCONN. 3/2016 (**Best oral presentation**)
