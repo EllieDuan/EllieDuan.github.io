@@ -27,7 +27,7 @@ title: Awards & Services
 
 
 # Reviewer for the following scientific journals:
-*	2020 Journal: BMC Biology
+*	2020 Journal: BMC Biology; Animal Genetics
 *	2019 Journals: 
 	* Nature Communication  
 	* EMBO Reports 
