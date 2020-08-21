@@ -75,7 +75,7 @@ title: Awards & Services
 	* PLOS ONE
 
 # Professional Memberships
-1.	2019 - present **Genetics Society of America **(GSA)
+1.	2019 - present **Genetics Society of America** (GSA)
 2.	2017 - 2018 **Plant & Animal Genome** (PAG)
 3.	2015 - present **International Embryo Technology Society** (IETS)
 4.	2014 - 2017 **American Association for the Advancement of Science** (AAAS)
