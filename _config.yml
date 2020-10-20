@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Ellie Duan
+title: Duan Lab
 
 # Short description of your site
-description: If you don't know about me, now you know :-D
+description: Functional Genomics Lab at Cornell University
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -24,6 +24,7 @@ navbar-links:
   PUBLICATIONS: "publication"
   TEACHING: "teaching"
   AWARDS & Service: "awards_service"
+  JOIN US: "join_us"
   CONTACT: "contact" 
 
 
