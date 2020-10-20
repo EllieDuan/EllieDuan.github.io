@@ -30,4 +30,10 @@ Cornell University: [https://gradschool.cornell.edu/](https://gradschool.cornell
 College of Agriculture and Life Science: [https://cals.cornell.edu/](https://cals.cornell.edu/)  
 Animal Science: [https://ansci.cals.cornell.edu/graduate/](https://ansci.cals.cornell.edu/graduate/)
 
+The successful candidate will participate in collaborative projects and execute basic research on genomic and epigenetic regulation in early embryonic development. The research areas include but are not limited to studying the molecular mechanism of environmental impacts on epigenetic regulation and the parental effects of embryonic development. Through these projects, the candidate will acquire strong technical expertise in advanced functional genomics research, bioinformatics, statistics, and next generation sequencing (NGS) data analysis. Further training opportunities will be provided to develop a wide array of professional and personal skills, including mentorship, scientific writing, project management, science communication, and career development.
+
+
+The successful candidate must be goal oriented, highly self-motivated and dedicated to be productive and open to interdisciplinary projects. Applicants should have strong interests in molecular biology, embryology, epigenetics, genomics or bioinformatics. Practical experience in cell culture, embryo culture, NGS library construction and/or analysis of NGS data is highly preferred but not required. We recognize the candidates may have their own sets of skills in their field which may not completely match with the advertised position. We foster diversity in the workplace and encourage any interested individual with a strong record of research productivity and relevant experience to apply. Stipend and tuition funding are also available on a competitive basis within the Department of Animal Science.
+
+
 
