@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Us
+title: JOIN US
 subtitle: 
 ---
 
