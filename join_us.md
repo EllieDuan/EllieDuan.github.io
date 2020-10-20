@@ -9,14 +9,14 @@ We foster diversity in the workplace and encourage any interested individual of 
 
 **Postdoctoral fellows**: Openings are currently available. Candidates should email your application to [Ellie Duan](jingyue.duan@gmail.com), and include a CV, a summary of your current and future research interests, and names of three references.
 
-####Successful experimental post-doc applicants will have:
+#### Successful experimental post-doc applicants will have:
 * A PhD in embryology, molecular biology or other discipline with relevant training
 * Experience with IVF, tissue culture or next generation sequencing library preparation.
 * At least two first author or co-first author papers with submitted, accepted, or published status in peer-reviewed journals
 * Capable of independent research, writing manuscript, multitasking, and working in a collaborative atmosphere both within and outside the laboratory
 
 
-####Successful computational post-doc applicants will have:
+#### Successful computational post-doc applicants will have:
 
 * A PhD in a biological, computational, or statistics-related field or other discipline with relevant training 
 * Strong programming skills: Python, R or equivalent  
