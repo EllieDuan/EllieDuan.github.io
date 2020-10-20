@@ -21,9 +21,9 @@ description: Functional Genomics Lab at Cornell University
 # List of links in the navigation bar
 navbar-links:
   HOME: "/"
-  PUBLICATIONS: "publication"
+  OUR PUBLICATIONS: "publication"
   TEACHING: "teaching"
-  AWARDS & Service: "awards_service"
+  AWARDS & SERVICE: "awards_service"
   JOIN US: "join_us"
   CONTACT: "contact" 
 
