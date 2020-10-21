@@ -7,7 +7,7 @@ subtitle:
 We foster diversity in the workplace and encourage any interested individual of all stages (including postdocs, graduate students, and undergraduate students) and all backgrounds (including animal science, embryology, molecular biology and bioinformatics) to join our group.
 
 
-**Postdoctoral fellows**: Openings are currently available. Candidates should email your application to [Ellie Duan](jingyue.duan@gmail.com), including:  
+**Postdoctoral fellows**: Openings are currently available. Candidates should email your application to Ellie Duan (jingyue.duan@gmail.com), including:  
 
 * A cover letter: your current position and research experience and why you are interested in this lab
 * Your updated CV  
@@ -40,7 +40,7 @@ Submitted documents will be reviewed on a rolling basis. The qualified applicant
 For prospective students, we are unable to accept you directly, you are encouraged to apply directly to Ph.D. programs at Cornell University. However, your are more than welcome to make a connection with us to discuss your interest of study before applying. 
 
 Interested individuals should forward the following documents to
-[Ellie Duan](jingyue.duan@gmail.com)
+Ellie Duan (jingyue.duan@gmail.com)
 
 * CV, including a list of publications/presentations (if any) and a list of relevant technical skills
 * unofficial transcripts (bachelor and/or master degree)
