@@ -39,7 +39,7 @@ Submitted documents will be reviewed on a rolling basis. The qualified applicant
 
 For prospective students, we are unable to accept you directly, you are encouraged to apply directly to Ph.D. programs at Cornell University. However, your are more than welcome to make a connection with us to discuss your interest of study before applying. 
 
-Interested individuals should forward the following documents to:
+Interested individuals should forward the following documents to
 [Ellie Duan](jingyue.duan@gmail.com)
 
 * CV, including a list of publications/presentations (if any) and a list of relevant technical skills
