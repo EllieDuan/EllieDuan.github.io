@@ -9,25 +9,33 @@ Click here for [PubMed Bibliography][pubMed]
 [google scholar]:https://scholar.google.com/citations?user=TpENjCMAAAAJ&hl=en
 [pubMed]:https://www.ncbi.nlm.nih.gov/myncbi/14SweeSYJLAQf/bibliography/public/
 
+* \*Equal contribution. Undergraduate authors is _italic_. 
+
+# 2020
+
+* **Jingyue Ellie Duan\***, Leila E. Rieder\*, _Annie Huang_
+, William T. Jordan, III1 , _Mary McKenney_, Scott Watters, Nicolas L. Fawzi, and Erica N. Larschan. CLAMP and Zelda function together as pioneer transcription factors to promote _Drosophila_ zygotic genome activation. _**BioRxiv**_ doi: https://doi.org/10.1101/2020.07.15.204248  
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2020.07.15.204248v1) [[Full text]](https://www.biorxiv.org/content/10.1101/2020.07.15.205054v1.full.pdf)
+
 
 # 2019
 
 * **Duan J** and Larschan E. Dosage Compensation: How to Be Compensated…Or Not? _**Curr Biol.**_ 2019 Dec 2;29(23):R1229-R1231. doi: 10.1016/j.cub.2019.09.065.  
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31794753/) [[Full text]](publication/CurrentBiology_Dispatches2019.pdf)
-*	**Duan JE**, Jiang Z, Alqahtani F, Mandoiu I, Dong H, Zheng X, Marjani S, Chen J and Tian XC. Whole genome bisulfite sequencing of bovine in vivo gametes and preimplantation embryos. _**Front Genet**_ 2019;10:512. doi: 10.3389/fgene.2019.00512.  
+*	**Duan JE\***, Jiang Z\*, Alqahtani F, Mandoiu I, Dong H, Zheng X, Marjani S, Chen J and Tian XC. Whole genome bisulfite sequencing of bovine in vivo gametes and preimplantation embryos. _**Front Genet**_ 2019;10:512. doi: 10.3389/fgene.2019.00512.  
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/31191619/) [[Full text]](publication/Frontier_in_genetics_WGBS_bovineEmbryos2019.pdf)
-*	**Duan JE**, Flock K, Jue N, Zhang M, Jones A, Seesi S, Mandoiu I, Pillai S, Hoffman M, O’Neill R, Zinn S, Govoni K, Reed S, Jiang H, Jiang Z and Tian XC. Dosage Compensation and Gene Expression of the X Chromosome in Sheep. _**G3: Genes Genomes Genetics**_. 2019 Jan 9;9(1):305-314. doi: 10.1534/g3.118.200815.  
+*	**Duan JE\***, Flock K\*, Jue N, Zhang M, Jones A, Seesi S, Mandoiu I, Pillai S, Hoffman M, O’Neill R, Zinn S, Govoni K, Reed S, Jiang H, Jiang Z and Tian XC. Dosage Compensation and Gene Expression of the X Chromosome in Sheep. _**G3: Genes Genomes Genetics**_. 2019 Jan 9;9(1):305-314. doi: 10.1534/g3.118.200815.  
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30482800/) [[Full text]](publication/G3_X_dosageCompensation_Sheep.pdf)
 *	**Duan JE**, Shi W, Jue NK, Jiang Z, O’Neill R, Wolf E, Blomberg LA, Talbot N, Dong H, Zheng X, Chen J, and Tian XC. Dosage compensatory of X chromosome in bovine germline cells, early developmental embryos and somatic cells. _**Genome Biol Evol**_. 2019 Jan 1;11(1):242-252. doi: 10.1093/gbe/evy270.  
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30566637/) [[Full text]](publication/GBE_X_dosageCompensation_BovineEmbryo.pdf) 
-*	**Duan JE**, Zhu L, Dong H, Zheng X, Chen J, Jiang Z, and X. Tian. Abundance of mRNA for histone variants, histone, and DNA modification enzymes in bovine in vivo oocytes and pre-implantation embryos. _**Sci Rep**_ 9, 1217 2019. doi: 10.1038/s41598-018-38083-4  
+*	**Duan JE\***, Zhu L\*, Dong H, Zheng X, Chen J, Jiang Z, and X. Tian. Abundance of mRNA for histone variants, histone, and DNA modification enzymes in bovine in vivo oocytes and pre-implantation embryos. _**Sci Rep**_ 9, 1217 2019. doi: 10.1038/s41598-018-38083-4  
 [[Abstract]](https://www.nature.com/articles/s41598-018-38083-4) [[Full text]](publication/ScientificReports_Bovine_HistoneGenes_rna-seq.pdf)
 
 # 2018
 
-* **Duan JE**, Zhang M, Flock K, Seesi S, Mandoiu I, Jones A, Johnson E, Pillai S, Hoffman M, Mcfadden K, Jiang H, Reed S, Govoni K, Zinn S, Jiang Z and Tian XC. Effects of Maternal Nutrition on the Expression of Genomic Imprinted genes in Ovine Fetuses. _**Epigenetics**._ 2018;13(8):793-807. doi: 10.1080/15592294.2018.1503489.  
+* **Duan JE\***, Zhang M\*, Flock K\*, Seesi S, Mandoiu I, Jones A, Johnson E, Pillai S, Hoffman M, Mcfadden K, Jiang H, Reed S, Govoni K, Zinn S, Jiang Z and Tian XC. Effects of Maternal Nutrition on the Expression of Genomic Imprinted genes in Ovine Fetuses. _**Epigenetics**._ 2018;13(8):793-807. doi: 10.1080/15592294.2018.1503489.  
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/30051747/) [[Full text]](publication/Epigenetics-sheep_imprinted_gene.pdf) 
-* Jiang Z, Lin J, Dong H, Zheng X, Marjani SL, **Duan JE**, Ouyang Z, Chen J, and Tian XC. DNA methylomes of bovine gametes and in vivo produced preimplantation embryos. _**Biol. Reprod.**_ 2018 Nov 1;99(5):949-959. doi: 10.1093/biolre/ioy138.    
+* Jiang Z\*, Lin J\*, Dong H, Zheng X, Marjani SL, **Duan JE**, Ouyang Z, Chen J, and Tian XC. DNA methylomes of bovine gametes and in vivo produced preimplantation embryos. _**Biol. Reprod.**_ 2018 Nov 1;99(5):949-959. doi: 10.1093/biolre/ioy138.    
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/29912291/) 
 [[Full text]](publication/BiolOfRepro_RRBS_bovineEmbryo.pdf) 
 *	Wang L, Jiang Z, Huang D, **Duan J**, Huang C, Sullivan S, Vali K, Yin Y, Zhang M, Wegrzyn J, Tian XC, and Tang Y. JAK/STAT3 regulated global gene expression dynamics during late-stage reprogramming process. _**BMC Genomics**_. 2018 Mar 6;19(1):183. doi: 10.1186/s12864-018-4507-2.  
