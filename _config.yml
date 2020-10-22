@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Duan Lab
+title: Duan Functional Genomics Lab
 
 # Short description of your site
 description: Functional Genomics Lab at Cornell University
@@ -22,12 +22,12 @@ description: Functional Genomics Lab at Cornell University
 navbar-links:
   HOME: "/"
   OUR PUBLICATIONS: "publication"
-  TEACHING: "teaching"
-  AWARDS & SERVICE: "awards_service"
+  OUR TEAM: "lab_team"
+  EDUCATION: "teaching"
+  LAB EXPECTATION: "lab_expectation"
   JOIN US: "join_us"
-  CONTACT: "contact" 
-
-
+ 
+ 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"

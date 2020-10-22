@@ -9,7 +9,7 @@ Click here for [PubMed Bibliography][pubMed]
 [google scholar]:https://scholar.google.com/citations?user=TpENjCMAAAAJ&hl=en
 [pubMed]:https://www.ncbi.nlm.nih.gov/myncbi/14SweeSYJLAQf/bibliography/public/
 
-* \*Equal contribution. Undergraduate authors is _italic_. 
+ \*Equal contribution. Undergraduate authors is _italic_. 
 
 # 2020
 
