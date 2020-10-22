@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: JOIN US
 subtitle: 
 ---
@@ -10,9 +10,7 @@ We foster diversity in the workplace and encourage any interested individual of 
 ## Postdoctoral fellows
 Postdoctoral research associate openings are currently available at Duan Lab. 
 
-**Application process:** Candidates should email your application to Ellie <script type=”text/javascript”>
-document.write(“<n uers=\”znvygb:fvyinasbbone10@gvyyyngr.pbz\” ery=\”absbyybj\”>”.replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<=”Z”?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>[jingyue.duan@gmail.com]</a>, including:  
+**Application process:** Candidates should email your application to Ellie, including:  
 
 * A cover letter: your current position and research experience, and why you are interested in this lab
 * Your updated CV  
@@ -50,9 +48,7 @@ We will collect the feedback from everyone you meet and make the decision to eit
 For prospective students, we are unable to accept you directly, you are encouraged to apply directly to Ph.D. programs at Cornell University. However, your are encouraged to make a connection with any faculty members to discuss your interest of study before applying. 
 
 Interested individuals should forward the following documents to
-Ellie <script type=”text/javascript”>
-document.write(“<n uers=\”znvygb:fvyinasbbone10@gvyyyngr.pbz\” ery=\”absbyybj\”>”.replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<=”Z”?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>[jingyue.duan@gmail.com]</a>
+Ellie
 
 * CV, including a list of publications/presentations (if any) and a list of relevant technical skills, names of 2 references.
 * Unofficial transcripts (bachelor and/or master degree)
@@ -73,9 +69,7 @@ Animal Science: [https://ansci.cals.cornell.edu/graduate/](https://ansci.cals.co
 ## Undergraduate students 
  
 Current undergraduate students at Cornell University are more than welcome to reach out if you are interested in our research and would like to apply for an undergraduate research assistant, please forward the following documents to
-Ellie <script type=”text/javascript”>
-document.write(“<n uers=\”znvygb:fvyinasbbone10@gvyyyngr.pbz\” ery=\”absbyybj\”>”.replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<=”Z”?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>[jingyue.duan@gmail.com]</a>
+Ellie
 
 * CV, including your research experience if any, relevant courses you took, your GPA, awards and relevant skills
 * Names of 2 references (can be professors you have took their classes)
