@@ -23,5 +23,5 @@ Moreover, we are strongly committed to strengthening the relationship among stud
 	
 # Mentoring 
 
-1.	2019 - present: Mentoring two [Brown University](https://www.brown.edu/) undergrad students Mary McKenney and Annie Huang doing undergraduate independent research in [Larschan Lab](https://vivo.brown.edu/display/elarscha). Lab training including: fly cross set up, fly dissection, molecular biology experiments, tissue and polytene immunostaining and electrophoretic mobility shift assay.
+1.	2019 - present: Mentoring two [Brown University](https://www.brown.edu/) undergrad students Mary McKenney and Annie Huang doing undergraduate independent research in [Larschan Lab](https://vivo.brown.edu/display/elarscha). Lab training including: fly cross set up, fly dissection, molecular biology experiments, tissue and polytene immunostaining, western, cell culture and electrophoretic mobility shift assay. 
 2. 2014 - 2019: Mentored several [UConn](https://uconn.edu/) undergrad and fellow graduate students on bioinformatics analysis, including: RNA-seq data analysis, and use of [Ensembl genome browser](https://useast.ensembl.org/index.html), [UCSC genome browser](https://genome.ucsc.edu/), [NCBI database search](https://www.ncbi.nlm.nih.gov/search/), [DAVID](https://david.ncifcrf.gov/) and [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi). 
