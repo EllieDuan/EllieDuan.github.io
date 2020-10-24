@@ -20,7 +20,7 @@ Postdoctoral research associate openings are currently available at Duan Lab.
 Submitted documents will be reviewed on a rolling basis. The qualified applicants will be contacted for a 30 min to 1 hour Zoom discussion. At this stage, you will also ask your references to send us letters. 
 
 
-You will be invited for a formal interview process if we think you are a good fit. This will be a full-day on site interview including a lab/campus tour (COVID Update: via Zoom teleconference). You will give a 1-hour research seminar and have one-on-one discussions with Ellie and other faculties, post-docs and graduate students. This visit (in person or virtual) will also be an opportunity for you to access if this lab will be a good fit for you and your overall happiness and research productivities in the next few years. 
+You will be invited for a formal interview process if we think you are a good fit. This will be a full-day on site interview including a lab/campus tour (COVID Update: via Zoom teleconference). You will give a 1-hour research seminar and have one-on-one discussions with Ellie and other faculties, post-docs and graduate students. This visit (in person or virtual) will also be an opportunity for you to assess if this lab will be a good fit for you and your overall happiness and research productivities in the next few years. 
 
 We will collect the feedback from everyone you meet and make the decision to either give you an offer or ask you to keep looking for other opportunities. If the offer is accepted, we will work with you on the hiring process, including the proposed starting date, salary, benefits, postdoc personal development plan, visa (if needed) and anything you will need for a successful career trajectory.    
 
