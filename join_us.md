@@ -4,7 +4,7 @@ title: JOIN US
 subtitle: 
 ---
 
-We foster diversity in the workplace and encourage any interested individual of all stages (including postdocs, graduate students, and undergraduate students) and all backgrounds (including animal science, embryology, molecular biology and bioinformatics) to join our group. Please review the Lab Expectation page to see if this lab is a good fit for you. 
+We foster diversity in the workplace and encourage any interested individual of all stages (including postdocs, graduate students, and undergraduate students) and all backgrounds (including animal science, embryology, molecular biology and bioinformatics) to join our group. 
 
 
 ## Postdoctoral fellows
