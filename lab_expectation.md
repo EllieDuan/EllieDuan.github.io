@@ -88,10 +88,11 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
   
 **PI mentor style**  
 
-I usually tailor my mentoring styles to each individual member in the lab and adjust over time as they need. It is essential to have open and regular communication to make sure you have the support and training you need. 
+I usually tailor my mentoring styles to each individual member in the lab and adjust over time as they need. It is essential to have open and regular communications to make sure you have the support and training you need. 
 
   
 **Postdoctoral Researcher** 
+
 
 
 
