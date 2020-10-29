@@ -17,7 +17,6 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
 * If your health status changes (including pregnancy), please inform me in private so we can discuss the best way to accommodate your needs.
 * Familiarize yourself with the lab chemical hygiene plan.
 * Follow all lab safety rules and guidelines (If you see an unsafe behavior, simply remind them the right way they should be doing).  
-
 	* Please read the [Laboratory Safety Manual](https://ehs.cornell.edu/book/export/html/237)
 	* Environmental Health and Safety: <https://ehs.cornell.edu/research-safety>
 	* Health Service: <https://health.cornell.edu/services>
@@ -38,24 +37,32 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
 * Be self-improvement without feeling the need to compete against your colleagues.  Success from others does not prevent yours, the success of each member contributes to everyone else's success.
 * Be supportive and generous. Provide support to your peers by being a positive influence, engaging in discussions and sharing information about scholarship/career development opportunities.  
 * Maintain an open-minded, inclusive, productive lab environment to support learning and research. Any inappropriate comments or behavior such as racism, sexism, discrimination and stereotyping will not be tolerated. We respect each other's cultural, religious and political differences, gender identity and sexual orientation.   
-
-
 	* [Advancing Diversity, Equity and Inclusion at Cornell](https://hr.cornell.edu/our-culture-diversity/diversity-inclusion/advancing-diversity-equity-and-inclusion-cornell)
+* Lab harmony: maintain a clean and tide working bench and don't take other's supplies (pipettes, tips, tubes etc.) without their permission. Make sure to sign up for the shared equipments so others can plan for their own experiment accordingly. Treat all lab equipments with care and keep the chemical inventory updated. 
 
 
+**Participation and Working Schedules**
 
-**Participation and work schedules**
-
-* Actively participate in all laboratory activities, such as lab meetings, departmental seminars, and collaboration meetings.
-* Respond to all commutations	via email or lab Slack Channel in a timely manner during working hours. Monitor communication regularly in case of emergencies (freezer outages)	
+* Actively participate in all laboratory activities, such as lab meetings (weekly or bi-weekly during summer), lab duties (gas refills, equipment maintenance, order PPEs, reagents and supplies), departmental seminars, and collaboration meetings.
+* Respond to all communications via email or lab Slack Channel in a timely manner during working hours. Monitor communications regularly in case of emergencies (freezer outages).	
 * Be self-driven: you are working for yourself (your passion, degree, career goals and next life chapters) instead of working for anyone else. 
-* Working schedules: develop a self-managed working style that optimizes your motivation and creativity. Working and studying based on your own rhythms and habits in sleep, eat and exercise. Your physical and mental health and life-work balance is important.   
+* Working schedules: develop a self-managed working style that optimizes your motivation and creativity. Working and studying based on your own rhythms and habits in sleep, eat and exercise. Your physical and mental health and life-work balance is the most important.   
 * Don't worry about comparing your schedule to your peers' schedules, every person goes through more or less intense work based on their own deadlines and commitments. Productive is more important than working long hours. However, your self-managed schedule should always allow you to interact with other team members and participate in lab meetings and discussions. [[Working alone policy]](https://ehs.cornell.edu/research-safety/chemical-safety/laboratory-safety-manual/chapter-4-administrative-controls/47)   
 * Vacations: lab members should plan to take a week paid-off in both the winter and summer breaks. Please discuss your vacation plan with me in advance and we can plan round the absence. 
-* Absences: make sure to clear any anticipated absence with me in advance. 
+* Absences: make sure to clear any anticipated whole day absence during working weeks with me in advance. 
 
 
 **Lab Notebook and Data Backup**
+
+* Your lab notebook belongs to the University and please do not take away with you. 
+* Maintain an organized and transcribed copy of wet lab and computational notebook in Evernote online. The additional information can be upload as photos [examples](https://journals.sagepub.com/doi/pdf/10.1177/2211068212471834)  
+* Data backup: sync all computer with google drive backup. Genomic data will need to be backed up on [BioHPC](https://biohpc.cornell.edu/lab/guides/hosted_servers_on_BioHPC.pdf) (not automatically).  
+
+
+**Lab Meetings**
+
+
+
 
 ### Specific Expectations
  
