@@ -8,7 +8,7 @@ Under development
 
 Members of the Duan lab share an interest in animal genomics, epigenomics and bioinformatics, with students working on impact of environmental stressors on early embryonic development, single cell genomics and development of bioinformatics tools and pipelines. We value students and researchers of diverse backgrounds with strong quantitative skills and a passion for animal science and critical thinking. We are a highly interactive group and we expect everyone in the group shares their personal expertise to help each other. It is important to us to maintain a supportive environment so everyone can do their best science. 
 
-### General Expectations For Everyone
+#### General Expectations For Everyone
 
 **Health and Safety First**
 
@@ -83,7 +83,7 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
 
 
 
-### Specific Expectations
+#### Specific Expectations
  
   
 **PI mentor style**  
