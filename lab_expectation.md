@@ -32,7 +32,13 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
 * Uphold high research integrity. Never manipulate or selectively exclude/expand data for an expected result. 
 	* We have zero tolerance policy towards plagiarism and data fabrication.
 * Maintain a positive, solution-oriented attitude towards your research.
-	* Need help? Steps in dealing with research challenges: think about solution yourself (don't ask someone by default); Google it (or post questions on some active communities); looking into literatures; discuss with lab mates; seek advice of the PI. If we are still struggling, we will seek for help outside the lab.   
+	* Need help? Steps in dealing with research challenges: 
+		* think about solution yourself (don't ask someone by default);
+		* Google it (or post questions on some active communities);
+		* looking into literatures; 
+		* discuss with lab mates; 
+		* seek advice of the PI. 
+		* If we are still struggling, we will seek for help outside the lab.   
 * Be honest (to yourself and to each other). Identifying your strength and expertise and be passionate about your research, own your project. 
 	* Made a mistake? Everyone will make mistakes in lab, own your mistake and apologize. Learn from it.  
 * Be self-improvement without feeling the need to compete against your colleagues.  
@@ -82,9 +88,7 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
   
 **PI mentor style**  
 
-I tailor my mentoring styles to each individual member in the lab and adjust over time as they need. The open and regular communication is the key. 
-
-not a lot of hierarchy, not micromanaged and allowed to get stuff done, and autonomous
+I usually tailor my mentoring styles to each individual member in the lab and adjust over time as they need. It is essential to have open and regular communication to make sure you have the support and training you need. 
 
   
 **Postdoctoral Researcher** 
