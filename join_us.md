@@ -45,7 +45,7 @@ We will collect the feedback from everyone you meet and make the decision to eit
 
 ## Prospective Graduate students
 
-For prospective students, we are unable to accept you directly, you are encouraged to apply directly to Ph.D. programs at Cornell University. However, your are encouraged to make a connection with any faculty members to discuss your interest of study before applying. 
+For prospective students, we are unable to accept you directly, you are encouraged to apply directly to M.S./Ph.D. programs at Cornell University. However, your are encouraged to make a connection with any faculty members to discuss your interest of study before applying. 
 
 Interested individuals should forward the following documents to
 Ellie
