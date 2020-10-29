@@ -8,7 +8,7 @@ Underdevelopment
 
 Members of the Duan lab share an interest in animal genomics, epigenomics and bioinformatics, with students working on impact of environmental stressors on early embryonic development, single cell genomics and development of bioinformatics tools and pipelines. We value students and researchers of diverse backgrounds with strong quantitative skills and a passion for animal science and critical thinking. We are a highly interactive group and we expect everyone in the group shares their personal expertise to help each other. It is important to us to maintain a supportive environment so everyone can do their best science. 
 
-###General Expectations For Everyone
+### General Expectations For Everyone
 
 **Health and Safety First**
 
@@ -18,13 +18,13 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
 * Familiarize yourself with the lab chemical hygiene plan 
 * Follow all lab safety rules and guidelines (If you see an unsafe behavior, simply remind them the right way they should be doing)
 
-	* Environmental Health and Safety: https://ehs.cornell.edu/research-safety
-	* Health Service: https://health.cornell.edu/services
-	* Mental Health Care https://health.cornell.edu/services/mental-health-care
-	* Fitness Center: https://recreation.athletics.cornell.edu/fitness
-	* Student & Campus life: https://scl.cornell.edu/get-involved 
-	* International Service: https://international.globallearning.cornell.edu/
-	* English Language Support: https://sce.cornell.edu/professional/program/els
+	* Environmental Health and Safety: <https://ehs.cornell.edu/research-safety>
+	* Health Service: <https://health.cornell.edu/services>
+	* Mental Health Care <https://health.cornell.edu/services/mental-health-care>
+	* Fitness Center: <https://recreation.athletics.cornell.edu/fitness>
+	* Student & Campus life: <https://scl.cornell.edu/get-involved> 
+	* International Service: <https://international.globallearning.cornell.edu/>
+	* English Language Support: <https://sce.cornell.edu/professional/program/els>
 
 **Attitude and Lab Citizenship**
 
@@ -35,11 +35,12 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
 * Be honest (to yourself and to each other)
 * Be self-improvement without feeling the need to compete against your colleagues.  Success from others does not prevent yours
 * Be supportive and generous. Provide support to your peers by being a positive influence, engaging in discussions and sharing information about scholarship/career development opportunities.  
+* Uphold the research integrity.  
 
 
 
 
-###Specific Expectations
+### Specific Expectations
  
   
 **PI mentor style**  
