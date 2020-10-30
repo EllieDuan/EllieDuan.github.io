@@ -66,8 +66,8 @@ Members of the Duan lab share an interest in animal genomics, epigenomics and bi
 	* Productive is more important than working long hours. However, your self-managed schedule should always allow you to interact with other team members and participate in lab meetings and discussions. [[Cornell working alone policy]](https://ehs.cornell.edu/research-safety/chemical-safety/laboratory-safety-manual/chapter-4-administrative-controls/47)   
 	* Block your time to write  
 * Vacations: Please find the guidelines for your vacations in both the winter and summer breaks:
-	* [Graduate research assistant time-off policy] (https://gradschool.cornell.edu/ask-a-dean/is-there-a-time-off-policy-for-graduate-students-receiving-stipends/)
-	* [Postdoctoral research associate leave policy] (https://www.dfa.cornell.edu/sites/default/files/vol6_2_1.pdf)
+	* [Graduate research assistant time-off policy](https://gradschool.cornell.edu/ask-a-dean/is-there-a-time-off-policy-for-graduate-students-receiving-stipends/)
+	* [Postdoctoral research associate leave policy](https://www.dfa.cornell.edu/sites/default/files/vol6_2_1.pdf)
 	* Please discuss your vacation plans with me in advance and we can plan round the absence. 
 	* You will be responsible for tracking of your needs and available vacation days.	
 	* Max of 20 days can be carry over to the next year. This will be very useful for international students who will spend 5-week for a visa renewal. 
