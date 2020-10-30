@@ -124,7 +124,7 @@ Your expectations of me:
 	* Discuss experimental design, project strategy and planning 
 	* Assist with identifying and writing fellowships
 	* Develop project ideas
-	* Meet regularly (weekly or bi-weekly depends on your need) to discuss experiment progress & pitfalls
+	* Meet one-on-one regularly (weekly or bi-weekly depends on your need) to discuss experiment progress & pitfalls
 	* Interpret results
 	* Review and proof-read manuscripts
 	* read, revise and evaluate all abstracts, manuscripts, posters, talks of each research that come from the lab
