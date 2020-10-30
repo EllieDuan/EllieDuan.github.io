@@ -129,7 +129,7 @@ Your expectations of me:
 	* Review and proof-read manuscripts
 	* read, revise and evaluate all abstracts, manuscripts, posters, talks of each research that come from the lab
 	* Discuss future career goals (e.g., do you want to teach, go into academia, industry, continue in research?) 
-	* Make individualized training plan for your goals and review your [individual development plan] (http://myidp.sciencecareers.org/) and provide you feedback
+	* Make individualized training plan for your goals and review your [individual development plan](http://myidp.sciencecareers.org/) and provide you feedback
 	* Write letters of recommendation 
 	* Curriculum suggestions
 * Help you identify professional development opportunities, including: writing grants, writing review articles, speaking at conferences, participating in training courses, going to career development seminars, mentoring less experienced trainees etc.
